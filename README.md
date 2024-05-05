@@ -8,6 +8,7 @@ APP1：基于ERNIE3.5的对话式应用设计
 ![80866a596c9432d65dda808942ad06b3](https://github.com/Zhougv/APP-based-on-Wenxin-model/assets/164281953/1bb9f55a-b4ca-4476-b5f7-75aad3b22673)
 
 APP2:基于文心大模型的知识图谱力导向图可视化
+
 本APP使用Flask 和Erniebot框架来搭建代码，接受用户的提问，随后提交的问题会被发送到Erniebot API，通过适当的提示将答案以知识图的形式返还给用户。
 
 ![4146d3dbaac8429f99ae7446930616ca](https://github.com/Zhougv/APP-based-on-Wenxin-model/assets/164281953/e4a41a79-dbdf-4480-9b04-369350455955)
